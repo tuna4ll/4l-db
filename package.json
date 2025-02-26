@@ -1,0 +1,14 @@
+{
+  "name": "4l.db",
+  "version": "1.0.2",
+  "description": "A JSON-based database module for Node.js, with schema validation and caching support.",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords": ["json", "database", "nosql", "mongoose", "lightweight"],
+  "author": "Tuna",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuna4ll/4l-db.git"
+  }
+}
